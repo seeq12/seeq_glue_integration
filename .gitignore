@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Secrets / local credentials - never commit an Application identity API Key
+*.pem
+secrets*.json
+credentials*
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

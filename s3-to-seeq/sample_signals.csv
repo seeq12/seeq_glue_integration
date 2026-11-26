@@ -1,0 +1,7 @@
+Timestamp,Reactor Temperature,Reactor Pressure,Batch Phase
+2026-11-01 00:00:00,71.2,101.3,Heating
+2026-11-01 00:01:00,71.9,101.5,Heating
+2026-11-01 00:02:00,72.6,,Heating
+2026-11-01 00:03:00,73.4,101.9,Hold
+2026-11-01 00:04:00,73.5,102.0,Hold
+2026-11-01 00:05:00,73.1,101.8,Cooling
